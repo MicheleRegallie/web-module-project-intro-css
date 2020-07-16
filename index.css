@@ -189,6 +189,9 @@ text-align: center;
     text-align:center;
     margin-bottom:5%;
 }
+span{
+    font-weight: bold;
+}
 /* Icons */
 .fire-icon{
     width: 100%;
