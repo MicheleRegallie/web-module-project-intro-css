@@ -91,7 +91,9 @@ header{
 .btn:hover{
     background-color:palevioletred;
 }
-
+a{
+    text-decoration: none;
+}
 /* Header */
 .hero{
     box-sizing: border-box;
